@@ -30,10 +30,5 @@
     "@fullcalendar/core": "^5.1.0",
     "@fullcalendar/daygrid": "^5.1.0"
   },
-  "-vs-binding": {
-    "BeforeBuild": [
-      "install",
-      "dev"
-    ]
-  }
+  "-vs-binding": { "ProjectOpened": [ "install", "dev" ] }
 }

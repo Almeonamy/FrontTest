@@ -1,1 +1,1 @@
-{"version":3,"file":"vue-component.js","sourceRoot":"","sources":["vue-component.ts"],"names":[],"mappings":"AAAA,OAAO,GAAG,MAAM,KAAK,CAAA;AACrB,2CAA2C;AAE3C,IAAI,GAAG,CAAC;IACJ,EAAE,EAAE,MAAM;CAEb,CAAC,CAAA"}
+{"version":3,"file":"vue-component.js","sourceRoot":"","sources":["vue-component.ts"],"names":[],"mappings":"AAAA,OAAO,GAAG,MAAM,KAAK,CAAA;AACrB,kDAAkD;AAElD,IAAI,GAAG,CAAC;IACJ,EAAE,EAAE,MAAM;CAEb,CAAC,CAAA"}
